@@ -1,0 +1,16 @@
+C:\Users\NQE8503\Laxmikant\Applications\MVC\New folder\NorthwindDynamicProxy\NorthwindServices\bin\Debug\NorthwindServices.dll.config
+C:\Users\NQE8503\Laxmikant\Applications\MVC\New folder\NorthwindDynamicProxy\NorthwindServices\bin\Debug\NorthwindServices.dll
+C:\Users\NQE8503\Laxmikant\Applications\MVC\New folder\NorthwindDynamicProxy\NorthwindServices\bin\Debug\NorthwindServices.pdb
+C:\Users\NQE8503\Laxmikant\Applications\MVC\New folder\NorthwindDynamicProxy\NorthwindServices\bin\Debug\NorthwindContracts.dll
+C:\Users\NQE8503\Laxmikant\Applications\MVC\New folder\NorthwindDynamicProxy\NorthwindServices\bin\Debug\NorthwindContracts.pdb
+C:\Users\NQE8503\Laxmikant\Applications\MVC\New folder\NorthwindDynamicProxy\NorthwindServices\obj\Debug\NorthwindServices.csprojResolveAssemblyReference.cache
+C:\Users\NQE8503\Laxmikant\Applications\MVC\New folder\NorthwindDynamicProxy\NorthwindServices\obj\Debug\NorthwindServices.dll
+C:\Users\NQE8503\Laxmikant\Applications\MVC\New folder\NorthwindDynamicProxy\NorthwindServices\obj\Debug\NorthwindServices.pdb
+C:\Laxmikant\D\Applications\NorthwindDynamicProxy\NorthwindServices\bin\Debug\NorthwindServices.dll.config
+C:\Laxmikant\D\Applications\NorthwindDynamicProxy\NorthwindServices\bin\Debug\NorthwindServices.dll
+C:\Laxmikant\D\Applications\NorthwindDynamicProxy\NorthwindServices\bin\Debug\NorthwindServices.pdb
+C:\Laxmikant\D\Applications\NorthwindDynamicProxy\NorthwindServices\bin\Debug\NorthwindContracts.dll
+C:\Laxmikant\D\Applications\NorthwindDynamicProxy\NorthwindServices\bin\Debug\NorthwindContracts.pdb
+C:\Laxmikant\D\Applications\NorthwindDynamicProxy\NorthwindServices\obj\Debug\NorthwindServices.csprojResolveAssemblyReference.cache
+C:\Laxmikant\D\Applications\NorthwindDynamicProxy\NorthwindServices\obj\Debug\NorthwindServices.dll
+C:\Laxmikant\D\Applications\NorthwindDynamicProxy\NorthwindServices\obj\Debug\NorthwindServices.pdb
